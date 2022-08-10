@@ -99,6 +99,7 @@ p {
   width: 100%;
   border-bottom: 1px solid #ececec;
   background-color: #ffffff;
+  z-index: 1;
 }
 .header .main-nav {
   display: flex;
